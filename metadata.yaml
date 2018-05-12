@@ -1,9 +1,8 @@
 _repo: The-conquest-of-Rome_46517
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46517/46517-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46517-h/images/cover.jpg
 creator:
   author:
     agent_name: Serao, Matilde
@@ -16,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7688
     wikipedia: http://en.wikipedia.org/wiki/Matilde_Serao
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46517#The-conquest-of-Rome
 gutenberg_issued: '2014-08-06'
 gutenberg_type: Text
 identifiers:
